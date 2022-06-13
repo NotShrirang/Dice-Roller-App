@@ -15,7 +15,7 @@ Searches meaning of that word on Google.
   </tr>
   <tr>
     <td><img src = "https://github.com/NotShrirang/Kotlin-Apps/blob/main/WordsApp/app/main_display_app.png" width="250", height="400"/></td>
-    
+    <td><img src = "https://github.com/NotShrirang/Kotlin-Apps/blob/main/WordsApp/app/main_display_app_grid.png" width="250", height="400"/></td>
     <td><img src = "https://github.com/NotShrirang/Kotlin-Apps/blob/main/WordsApp/app/detailed_display_app.png" width="250", height="400"/></td>
   </tr>
  </table>
