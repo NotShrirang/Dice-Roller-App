@@ -1,26 +1,26 @@
-# Words App
+<img src="https://github.com/NotShrirang/Kotlin-Apps/blob/main/WordsApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"/>
 
-This folder contains the source code for the Words app codelab.
+<h1>Words App</h1>
+Gives list of words for given alphabet.
+Searches meaning of that word on Google.
 
-
-# Introduction
-Words app allows you to select a letter and use Intents to navigate to an Activity that
-presents a number of words starting with that letter. Each word can be looked up via a web search.
-
-Words app contains a scrollable list of 26 letters A to Z in a RecyclerView. The orientation
-of the RecyclerView can be changed between a vertical list or a grid of items.
-
-The app demonstrates the use of Intents in two ways:
-* to navigate inside an app by specifying an explicit destination, and,
-* allowing Android to service the Intent using the apps and resources present on the device.
-
-# Pre-requisites
-* Experience with Kotlin syntax.
-* Able to create an Activity.
-* Able to create a RecyclerView and supply it with data.
-
-# Getting Started
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+<h2>Display :</h2>
+<table>
+  <tr>
+    <th colspan=2>Main Display</th>
+    <th>Detailed Display</th>
+  </tr>
+  <tr>
+    <th>Linear</th>
+    <th>Grid</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src = "https://github.com/NotShrirang/Kotlin-Apps/blob/main/WordsApp/app/main_display_app.png" width="250", height="400"/></td>
+    <td><img src = "https://github.com/NotShrirang/Kotlin-Apps/blob/main/WordsApp/app/main_display_app_grid.png" width="250", height="400"/></td>
+    <td><img src = "https://github.com/NotShrirang/Kotlin-Apps/blob/main/WordsApp/app/detailed_display_app.png" width="250", height="400"/></td>
+  </tr>
+ </table>
+ 
+<h4>IDE : Android Studio Chipmunk | 2021.2.1</h4>
+<h4>Minimum SDK : API 19 | Android 4.4 (KitKat)</h4>
