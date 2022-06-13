@@ -1,2 +1,2 @@
-# Kotlin-App
-Simple Kotlin apps
+# Dice Roller App
+Rolls a Dice :)
